@@ -1,16 +1,20 @@
-## Hi there 👋
+#  Salut, moi c'est Fofana Mohamed (Avenix) !
 
-<!--
-**Avenix-de-la-tech/Avenix-de-la-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **Étudiant en Licence 2 MIAGE** à l'Université Polytechnique de Bingerville (UPB).
+ **Passionné par l'Intelligence Artificielle & le Vibe Coding**. 
+ **Focus :** Développement moderne, rigueur dans le code et conception de solutions logicielles innovantes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### À propos de moi
+- J'approfondis mes compétences en développement logiciel et en IA.
+-  J'adore explorer les méthodes modernes de programmation (*Vibe coding*).
+-  **Technologies & Langages :** C, Python, HTML/CSS/Javascript, SQL, Git & GitHub.
+- **Rigoureux, curieux et toujours appliqué dans tout ce que je fais !**
+
+---
+
+### Pour me contacter
+- **Nom complet :** Fofana Mohamed
+- **Pseudo Tech :** Avenix-de-la-tech
+-  
